@@ -1,0 +1,9 @@
+opencv-python==4.5.3.56
+torch
+torchvision
+Pillow
+tqdm
+matplotlib
+PyYAML
+scipy
+tensorboard
